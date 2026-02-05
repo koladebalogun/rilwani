@@ -232,7 +232,7 @@ export default function Page() {
       <section className="intro">
         <h1>
           Scroll to explore the rhythm of notes that drift quietly between my
-          melody and feeling
+          melody and feeling.
         </h1>
       </section>
 
@@ -261,7 +261,7 @@ export default function Page() {
       <section className="outro">
         <h1>
           As the sequence slows, the silence takes over holding last traces of
-          motion in the air.
+          motion in the air
         </h1>
       </section>
     </div>
