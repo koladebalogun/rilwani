@@ -246,7 +246,7 @@ export default function Preloader() {
         </nav>
 
         <div className="hero-image">
-          <Image src="/producer_.jpg" alt="" width={1000} height={600} />
+          <Image src="/producer.JPG" alt="" width={1000} height={600} />
         </div>
 
         <div className="card">

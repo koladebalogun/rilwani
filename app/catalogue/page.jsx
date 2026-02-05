@@ -30,13 +30,13 @@ export default function Page() {
       {
         title:
           "Under the soft hum of hallway lights, I watch practice ripple through sound, my discipline mirrored in fragments of drifting scales daily.",
-        image: "/producer6.jpg",
+        image: "/producer6.JPG",
         link: "https://music.apple.com/gh/song/bad-decision/1819796686",
       },
       {
         title:
           "Under the low hum of midnight lights, I watch feelings ripple through sound, my breath reflected in fragments of drifting echoes nearby.",
-        image: "/producer7.jpg",
+        image: "/producer7.JPG",
         link: "https://music.apple.com/gh/song/ravage-warcry/1727859357",
       },
       {
@@ -54,13 +54,13 @@ export default function Page() {
       {
         title:
           "Under the faint hum of neon lights, I watch memories ripple through sound, my heartbeat echoed in fragments of drifting tempo lines.",
-        image: "/producer10.jpg",
+        image: "/producer10.JPG",
         link: "https://music.apple.com/gh/album/ojugba/1705719459?i=1705719461",
       },
       {
         title:
           "Under the steady hum of stage lights, I watch moments ripple through sound, my story mirrored in fragments of drifting notes alone.",
-        image: "/producer11.jpg",
+        image: "/producer11.JPG",
         link: "https://music.apple.com/gh/song/i-like/1772561127",
       },
       {
