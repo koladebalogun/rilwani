@@ -6,6 +6,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { SplitText } from "gsap/SplitText";
 import Lenis from "lenis";
+import Link from "next/link";
 
 export default function Page() {
   useEffect(() => {
@@ -229,6 +230,9 @@ export default function Page() {
 
   return (
     <div className="catalogue">
+      <nav style={{position: "absolute"}}>
+          <Link href='/' id="logo" style={{textDecoration: "none", color:"#fff"}}>Home</Link>
+        </nav>
       <section className="intro">
         <h1>
           Scroll to explore the rhythm of notes that drift quietly between my
