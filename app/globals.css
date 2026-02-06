@@ -231,7 +231,6 @@ nav a#logo {
   overflow: hidden;
 }
 
-
 /* ////////////////// */
 
 .catalogue h1 {
@@ -313,7 +312,7 @@ img {
   left: 1rem;
   transform: translateY(-50%);
   width: 50%;
-  color: #fff;
+  color: orange;
   text-decoration: none;
 }
 
@@ -410,7 +409,7 @@ img {
   }
 
   .catalogue h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     letter-spacing: 0;
   }
 
@@ -425,6 +424,17 @@ img {
     transform: none;
     width: 100%;
     padding: 2rem;
+  }
+
+  .slider-link {
+    position: absolute;
+    top: 15rem;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    color: orange;
   }
 
   .slider-indicator {
